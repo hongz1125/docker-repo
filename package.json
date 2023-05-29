@@ -1,0 +1,21 @@
+{
+  "name": "docker-repo",
+  "version": "1.0.0",
+  "description": "ali-repo-test",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node deploy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongz1125/docker-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongz1125/docker-repo/issues"
+  },
+  "homepage": "https://github.com/hongz1125/docker-repo#readme"
+}
